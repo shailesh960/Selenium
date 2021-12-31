@@ -9,6 +9,12 @@ public class CreateContactTest
 	{
 		System.out.println("CContact is created");
 	}
+	@Test
+	public void creatContact1()
+	{
+		System.out.println("CContact is created");
+	}
+	
 	
 	@Test
 	public void updateContact()
