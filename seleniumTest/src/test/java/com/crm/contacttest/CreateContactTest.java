@@ -17,7 +17,7 @@ public class CreateContactTest
 	
 	
 	@Test
-	public void updateContact()
+	public void updateContact1()
 	{
 		System.out.println("Contact is Updated");
 	}
